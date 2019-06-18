@@ -3,31 +3,31 @@
       "id": 0,
       "title": "Effektiviser faktureringen med Efaktura",
       "text": "Visma.net har en innebygget faktureringsmotor, Visma.net AutoInvoice, som håndterer alle bedriftens inn- og utgående fakturaer. Denne løsningen gir deg full kontroll på faktureringsprosessen og sørger for at arbeidsflyten er strømlinjet. I denne motoren kan du sende, motta og konvertere elektroniske fakturaer og kreditnotaer i internasjonale og nasjonale formater. Løsningen støtter følgende formater for sending og mottakelse:  […]",
-      "img": ""
+      "img": "https://arekpl28.github.io//json-example/img/autoinvoice.png"
     },
     {
       "id": 1,
       "title": "Automatiser dine banktransaksjoner",
       "text": "Hvordan påvirker digitalisering måten man jobber med HR og lønn på? Hvilke fordeler kan din bedrift få ved å forenkle hverdagen til de ansatte? Hvilken betydning har dette for deg som jobber med Lønn? Noen av svarene får du på PCSS sitt frokostseminar som er skreddersydd for deg som jobber med HR og lønn. Sammen […]",
-      "img": ""
+      "img": "https://arekpl28.github.io//json-example/img/autopay.png"
     },
     {
       "id": 2,
       "title": "Velkommen til frokostseminar!",
       "text": "Benytter du deg av Visma sine tjenester bør du registrere deg i Visma Community, om du ikke allerede har gjort det. Er du ikke medlem ? Da klikker du bare på «Registrer deg».  Er du allerede bruker på en Visma.net tjeneste men ikke Community-medlem? Da kan du logge på med samme brukernavn og passord som […]",
-      "img": ""
+      "img": "https://arekpl28.github.io//json-example/img/forsidebilde.png"
     },
     {
       "id": 3,
       "title": "Visma Community",
       "text": "Visma.net har en innebygget faktureringsmotor, Visma.net AutoInvoice, som håndterer alle bedriftens inn- og utgående fakturaer. Denne løsningen gir deg full kontroll på faktureringsprosessen og sørger for at arbeidsflyten er strømlinjet. I denne motoren kan du sende, motta og konvertere elektroniske fakturaer og kreditnotaer i internasjonale og nasjonale formater. Løsningen støtter følgende formater for sending og mottakelse:  […]",
-      "img": ""
+      "img": "https://arekpl28.github.io//json-example/img/community-registrering.jpg"
     },
     {
       "id": 4,
       "title": "Avslutning av Trainee-reisen med Visma.net",
       "text": "I starten av desember avsluttet Victoria og jeg vår trainee-reise hos Visma Software AS. Denne reisen har vært veldig spennende og lærerik. Til sammen har vi vært en gruppe på 15 traineer, bestående av kandidater fra alle kanter av landet og på tvers av Visma sine partnerkanaler. Vi har knyttet gode relasjoner og fått kjennskap til flere av Visma sine […]",
-      "img": ""
+      "img": "https://arekpl28.github.io//json-example/img/coudcamp-montasje.png"
     }
   ]
 }
